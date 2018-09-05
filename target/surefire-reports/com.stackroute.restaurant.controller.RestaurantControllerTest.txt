@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.stackroute.restaurant.controller.RestaurantControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.319 s <<< FAILURE! - in com.stackroute.restaurant.controller.RestaurantControllerTest
+initializationError(com.stackroute.restaurant.controller.RestaurantControllerTest)  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.AbstractMethodError: org.apache.logging.log4j.core.config.ConfigurationFactory.getConfiguration(Lorg/apache/logging/log4j/core/config/ConfigurationSource;)Lorg/apache/logging/log4j/core/config/Configuration;
+

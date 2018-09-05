@@ -1,0 +1,56 @@
+-------------------------------------------------------------------------------
+Test set: com.stackroute.restaurant.ApplicationTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 13, Errors: 0, Skipped: 0, Time elapsed: 0.011 s <<< FAILURE! - in com.stackroute.restaurant.ApplicationTest
+testNotifyAll(com.stackroute.restaurant.ApplicationTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at com.stackroute.restaurant.ApplicationTest.testNotifyAll(ApplicationTest.java:51)
+
+testGetClass(com.stackroute.restaurant.ApplicationTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at com.stackroute.restaurant.ApplicationTest.testGetClass(ApplicationTest.java:21)
+
+testClone(com.stackroute.restaurant.ApplicationTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at com.stackroute.restaurant.ApplicationTest.testClone(ApplicationTest.java:36)
+
+testMain(com.stackroute.restaurant.ApplicationTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at com.stackroute.restaurant.ApplicationTest.testMain(ApplicationTest.java:11)
+
+testWait(com.stackroute.restaurant.ApplicationTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at com.stackroute.restaurant.ApplicationTest.testWait(ApplicationTest.java:66)
+
+testToString(com.stackroute.restaurant.ApplicationTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at com.stackroute.restaurant.ApplicationTest.testToString(ApplicationTest.java:41)
+
+testWaitLongInt(com.stackroute.restaurant.ApplicationTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at com.stackroute.restaurant.ApplicationTest.testWaitLongInt(ApplicationTest.java:61)
+
+testFinalize(com.stackroute.restaurant.ApplicationTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at com.stackroute.restaurant.ApplicationTest.testFinalize(ApplicationTest.java:71)
+
+testHashCode(com.stackroute.restaurant.ApplicationTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at com.stackroute.restaurant.ApplicationTest.testHashCode(ApplicationTest.java:26)
+
+testWaitLong(com.stackroute.restaurant.ApplicationTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at com.stackroute.restaurant.ApplicationTest.testWaitLong(ApplicationTest.java:56)
+
+testEquals(com.stackroute.restaurant.ApplicationTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at com.stackroute.restaurant.ApplicationTest.testEquals(ApplicationTest.java:31)
+
+testNotify(com.stackroute.restaurant.ApplicationTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at com.stackroute.restaurant.ApplicationTest.testNotify(ApplicationTest.java:46)
+
+testObject(com.stackroute.restaurant.ApplicationTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at com.stackroute.restaurant.ApplicationTest.testObject(ApplicationTest.java:16)
+
